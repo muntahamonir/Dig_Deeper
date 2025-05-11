@@ -1,6 +1,8 @@
 # 🌍 Dig Deeper, Think Greener
 
 **A student-led initiative to rethink resource extraction.**
+
+
 **Live Site:** [https://dig-deeper-lilac.vercel.app/](https://dig-deeper-lilac.vercel.app/)
 ---
 
