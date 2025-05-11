@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/523d55c7-dc28-4414-83a2-ad144da149fd)
+
 # 🌍 Dig Deeper, Think Greener
 
 **A student-led initiative to rethink resource extraction.**
