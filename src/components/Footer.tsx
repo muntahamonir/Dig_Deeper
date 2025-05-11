@@ -48,12 +48,12 @@ const Footer: React.FC = () => {
             <ul className="space-y-3">
               <li className="flex items-start">
                 <MapPin size={18} className="text-green-500 mr-2 mt-1 flex-shrink-0" />
-                <span>Engineering Building, University Campus</span>
+                <span>E Building , SUST</span>
               </li>
               <li className="flex items-start">
                 <Mail size={18} className="text-green-500 mr-2 mt-1 flex-shrink-0" />
                 <a href="mailto:info@digdeeper.org" className="hover:text-green-500 transition-colors duration-300">
-                  info@digdeeper.org
+                  digdeeperthinkgreener@gmail.com
                 </a>
               </li>
             </ul>
