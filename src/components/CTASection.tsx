@@ -63,24 +63,7 @@ const CTASection: React.FC = () => {
             </div>
           )}
           
-          <div className="mt-12 grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
-            <div>
-              <h4 className="text-3xl font-bold text-amber-300">50+</h4>
-              <p className="text-green-200">Students Involved</p>
-            </div>
-            <div>
-              <h4 className="text-3xl font-bold text-amber-300">12</h4>
-              <p className="text-green-200">Planned Events</p>
-            </div>
-            <div>
-              <h4 className="text-3xl font-bold text-amber-300">5</h4>
-              <p className="text-green-200">Partner Organizations</p>
-            </div>
-            <div>
-              <h4 className="text-3xl font-bold text-amber-300">3</h4>
-              <p className="text-green-200">Universities</p>
-            </div>
-          </div>
+          
         </div>
       </div>
     </section>
