@@ -1,7 +1,3 @@
-Sure! Here's a **README** focused entirely on the idea behind your project, without any technical or coding-related content:
-
----
-
 # 🌍 Dig Deeper, Think Greener
 
 **A student-led initiative to rethink resource extraction.**
